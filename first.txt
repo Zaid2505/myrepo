@@ -2,3 +2,4 @@ Hello first line of text file
 Commited in branch
 Commiting in master branch
 Line By Master
+Adding line to get a conflict
